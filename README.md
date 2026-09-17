@@ -28,14 +28,10 @@ The article is available through the *Journal of Applied Geophysics* on ScienceD
 
 ## Research Motivation
 
-Geotechnical investigations often contain relatively sparse measurements because field sampling and Cone Penetration Testing can be costly and spatially limited.
-
-Geophysical methods such as Towed-TEM can provide much denser spatial coverage, but converting geophysical measurements into engineering parameters such as undrained shear strength requires sufficient paired observations for model development.
-
+Geotechnical investigations often contain relatively sparse measurements because field sampling and Cone Penetration Testing can be costly and spatially limited. Geophysical methods such as Towed-TEM can provide much denser spatial coverage, but translating geophysical measurements into geo-engineering parameters such as undrained shear strength requires sufficient paired observations for model development.
 Synthetic-data generation provides one approach for increasing the amount of training data available while attempting to preserve patterns contained in the observed dataset.
 
 This project applies a GAN to learn relationships among:
-
 ```text
 Depth
 Electrical Resistivity
@@ -326,10 +322,8 @@ If you use this repository or methodology in academic work, please cite the asso
 
 ```text
 Arowoogun, K., Grote, K., & Maurer, J. (2026).
-Predicting undrained shear strength from Towed-TEM resistivity
-and sparse CPT data using machine learning models.
-Journal of Applied Geophysics, 254, 106500.
-https://doi.org/10.1016/j.jappgeo.2026.106500
+Predicting undrained shear strength from Towed-TEM resistivity and sparse CPT data using machine learning models.
+Journal of Applied Geophysics, 254, 106500. https://doi.org/10.1016/j.jappgeo.2026.106500
 ```
 
 ---
