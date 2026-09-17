@@ -152,7 +152,7 @@ GAN-Synthetic-Geotechnical-Data/
 ```
 
 ##  Application
-Synthetic geotechnical data generation was used to augment geotechnical data training in Arowoogun et al., 2025
+Synthetic geotechnical data created using this code were used to augment geotechnical data training and subsequent machine learning prediction of Su in Arowoogun et al., 2025
 
 
 
