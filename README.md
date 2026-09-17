@@ -1,14 +1,13 @@
 # GAN-Based Synthetic Geotechnical Data Generation
 
 ## Overview
-This repository contains a **Generative Adversarial Network (GAN)** developed in Python using **PyTorch** to generate synthetic geotechnical and geophysical data.
-The GAN was developed to address limitations associated with sparse paired geotechnical and geophysical observations. It learns the joint characteristics of three variables:
-
+This repository contains a **Generative Adversarial Network (GAN)** model developed in Python using **PyTorch** to generate synthetic geotechnical and geophysical data.
+The GAN model was used to address limitations associated with sparse  geotechnical observations. It learns the joint characteristics of three variables:
 * **Depth**
 * **Electrical Resistivity (Res)**
 * **Undrained Shear Strength (Su)**
 
-The trained generator is used to produce synthetic observations that can augment the original dataset and support downstream machine-learning applications.
+The trained generator is used to produce synthetic observations that can augment the original dataset and support  machine-learning applications.
 This work is associated with research on predicting undrained shear strength from **Towed Transient Electromagnetic (Towed-TEM) resistivity data** and sparse **Cone Penetration Test (CPT)** measurements.
 
 ---
@@ -309,8 +308,6 @@ These dependencies can be stored in a `requirements.txt` file.
 
 GAN-generated synthetic geotechnical data may support research involving:
 * Geotechnical data augmentation
-* Machine-learning model development
-* Geophysical-to-geotechnical property prediction
 * Data-scarce areas
 * Undrained shear-strength prediction
 
@@ -331,7 +328,7 @@ Journal of Applied Geophysics, 254, 106500. https://doi.org/10.1016/j.jappgeo.20
 
 This repository contains the GAN-based synthetic-data-generation component associated with the research described in the accompanying publication.
 
-The GAN methodology was developed based on the foundational Generative Adversarial Network framework introduced by Goodfellow et al. (2014).
+The GAN methodology was developed based on the  Generative Adversarial Network framework introduced by Goodfellow et al. (2014).
 
 ---
 
