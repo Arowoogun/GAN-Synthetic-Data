@@ -5,14 +5,13 @@ This project develops a Generative Adversarial Network (GAN) model to generate s
 ## Overview
 
 This project develops a Generative Adversarial Network (GAN) to generate synthetic geotechnical data that reproduces the statistical characteristics and relationships present in an original dataset.
-
 The model is implemented in Python using PyTorch and follows the Generative Adversarial Network framework introduced by Goodfellow et al. (2014).
 
 The objective is to generate realistic synthetic observations for three geotechnical variables:
 
-* **Depth** – measurement depth
-* **Res** – resistance-related geotechnical measurement
-* **Su_kpa** – undrained shear strength in kPa
+* **Depth** – Depth
+* **Res** – Resistivity
+* **Su_kpa** – Undrained shear strength
 
 The synthetic dataset can potentially support geotechnical data augmentation and machine-learning applications where available field observations are limited.
 
