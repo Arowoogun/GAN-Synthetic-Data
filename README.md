@@ -321,8 +321,7 @@ GAN-generated synthetic geotechnical data may support research involving:
 If you use this repository or methodology in academic work, please cite the associated publication:
 
 ```text
-Arowoogun, K., Grote, K., & Maurer, J. (2026).
-Predicting undrained shear strength from Towed-TEM resistivity and sparse CPT data using machine learning models.
+Arowoogun, K., Grote, K., & Maurer, J. (2026).Predicting undrained shear strength from Towed-TEM resistivity and sparse CPT data using machine learning models.
 Journal of Applied Geophysics, 254, 106500. https://doi.org/10.1016/j.jappgeo.2026.106500
 ```
 
