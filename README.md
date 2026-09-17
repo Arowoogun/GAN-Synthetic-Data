@@ -339,7 +339,7 @@ The GAN methodology was developed based on the foundational Generative Adversari
 
 **Kolawole Arowoogun**
 
-Research areas include geotechnical engineering, geophysical data analysis, machine learning, GIS, climate and environmental applications, and data-driven modeling.
+Research areas include geotechnical engineering, geophysics, machine learning, GIS, climate and environmental applications, and data-driven modeling.
 
 
 
