@@ -7,7 +7,7 @@ The GAN model was used to address limitations associated with sparse  geotechnic
 * **Electrical Resistivity (Res)**
 * **Undrained Shear Strength (Su)**
 
-The trained generator is used to produce synthetic observations that can augment the original dataset and support  machine-learning applications.
+The trained generator produces synthetic observations that augment the original dataset and support  machine-learning applications.
 This work is associated with research on predicting undrained shear strength from **Towed Transient Electromagnetic (Towed-TEM) resistivity data** and sparse **Cone Penetration Test (CPT)** measurements.
 
 ---
@@ -20,7 +20,7 @@ The methodology implemented in this repository is associated with the following 
 *Journal of Applied Geophysics*, **254**, Article 106500.
 
 **DOI:**
-https://doi.org/10.1016/j.jappgeo.2026.106500
+https://doi.org/10.1016/j.jappgeo.2026.106500  https://www.sciencedirect.com/science/article/pii/S092698512600409X
 The article is available through the *Journal of Applied Geophysics* on ScienceDirect.
 
 ---
